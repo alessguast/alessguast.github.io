@@ -1,0 +1,44 @@
+.titulo {
+    background-color: white;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-shadow: 1px 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.subtitulo {
+    background-color: white;
+    text-align: center;
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.listas {
+    background-color: white;
+    text-align: center;
+    text-emphasis-color: aqua;
+}
+
+.ejercicios {
+    background-color: white;
+    margin: 0em 36.5em 0em 38em;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
+
+body{
+    background-image: url('https://cdnb.20m.es/yaestaellistoquetodolosabe/files/2014/12/Un-pu%C3%B1ado-de-curiosos-y-divertidos-GIFs-sobre-la-Navidad-Felices-Fiestas25.gif');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+footer {
+    background-color: white;
+    margin: 0em 110em 0em 0em;
+}
