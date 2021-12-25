@@ -18,11 +18,12 @@
 
 .listas {
     background-color: white;
-    text-align: left;
+    text-align: center;
     text-emphasis-color: aqua;
 }
 
 .ej {
+    color: white;
     background-color: white;
     text-align: center;
     text-emphasis-color: aqua;
