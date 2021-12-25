@@ -1,0 +1,156 @@
+.imagenCabecera {
+    float: left;
+    height: 70px;
+    background-color: #333;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 70px;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    display: inline-block;
+  }
+  
+header {
+    background-color: #333;
+}
+
+.menu {
+    padding-left: 1090px;
+}
+
+.infomrmacion {
+    border: 1px white;
+    margin-left: 2px;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+    color: red;
+    height: 70px;
+    background-color: #111;
+}
+
+#amigos {
+    color: white;
+    background-color: teal;
+    margin: 15px 15px 15px 15px;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    background-image: url("granada.jpg");
+    padding-left: 60px;
+}
+
+#regalo {
+    color: white;
+    margin: 15px 15px 15px 15px;
+    background-color: teal;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    padding-left: 60px;
+    background-image: url("regala_viaje.jpg");
+}
+
+#horario {
+    color: white;
+    margin: 15px 15px 15px 15px;
+    background-color: teal;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    padding-left: 60px;
+    background-image: url("horario.jpg");
+}
+
+#felicidad {
+    color: white;
+    margin: 15px 15px 15px 15px;
+    background-color: teal;
+    display: inline-block;
+    image-resolution: from-image;
+    width: 400px;
+    height: 400px;
+    padding-left: 60px;
+    background-image: url("felicidad.jpg");
+}
+
+#comida {
+    color: white;
+    background-color: teal;
+    margin: 15px 15px 15px 15px;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    padding-left: 60px;
+    background-image: url("comida.jpg");
+}
+
+#sabor {
+    color: white;
+    background-color: teal;
+    margin: 15px 15px 15px 15px;    
+    display: inline-block;
+    width: 400px;
+    padding-left: 60px;
+    height: 400px;
+    background-image: url("sabor.jpg");
+}
+
+
+.col_primera {
+    color: white;
+    background-color: #333;
+    padding-top: 70px;
+    text-decoration: underline;
+    padding-right: 150px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
+
+footer a:hover {
+    color: red;
+}
+
+th {
+    text-decoration: underline;
+    text-align: left;
+}
+
+td {
+    padding-right: 250px;
+    color: gray;
+}
+
+/*th {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    background-color: #333;
+}
+
+td {
+    color: white;
+    text-align: left;
+    background-color: #333;
+    padding-left: 80px;
+}
